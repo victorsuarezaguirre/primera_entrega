@@ -1,0 +1,16 @@
+ {
+  "name": "primera_entrega",
+  "version": "1.0.1",
+  "description": "Primera entrega del curso de NodeJS donde se muestra un listado de cursos y me permite escoger uno para realizar la inscripcion",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Suarez victorsuarezaguirre1@gmail.com",
+  "license": "ISC"
+}
